@@ -1,5 +1,15 @@
 # svelte
 
+## 5.0.6
+
+### Patch Changes
+
+- fix: properly migrate ts with inferred type comments ([#13761](https://github.com/sveltejs/svelte/pull/13761))
+
+- fix: migrate default slots to children snippet ([#13760](https://github.com/sveltejs/svelte/pull/13760))
+
+- fix: don't print errors on migration errors ([#13754](https://github.com/sveltejs/svelte/pull/13754))
+
 ## 5.0.5
 
 ### Patch Changes
